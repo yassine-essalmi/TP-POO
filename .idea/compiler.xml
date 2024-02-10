@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -11,7 +12,9 @@
         <module name="TP-Exo3" />
         <module name="TP-Exo4" />
         <module name="TP-Exo7" />
+        <module name="TP3-EXO2" />
         <module name="TP-Exo1" />
+        <module name="TP3-EXO1" />
         <module name="TP-Exo2" />
       </profile>
     </annotationProcessing>
